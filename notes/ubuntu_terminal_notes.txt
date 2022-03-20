@@ -1,0 +1,32 @@
+ctrl+alt+t : open terminal
+pwd : show the current working directory
+dir : print all working directories
+ls : list all directories and files
+ls - al : print details
+ls - R : print sub directories as well
+ls - a : show hidden files
+cd : change directory
+
+stat file.txt : show the deatils of the file
+cat file.txt : show the contents of the file
+cat file1.txt file2.txt > output.txt : concatenate files
+
+mkdir : make new directory
+rm text.txt : delete
+rmdir Videos : removes a directory
+cp text.txt Directory: copy a test to a directory
+cp OldFolder -r destination: copies a folder to a directory
+mv : move files and directories around
+head file.txt : shows first 10 lines of code
+tail file.txt : shows last 10 lines of code
+
+uname -a " displays the verison of linux
+wget : downloads stuff from the internet
+
+sudo apt install vlc
+sudo apt remove vlc
+history : show the history of commands executed, NOTE: !2 executes the second command
+
+ 
+
+

@@ -1,0 +1,16 @@
+//For generating keys
+ssh-keygen -t ed25519 -C kafiulshabbir@gmail.com
+
+//For viewing
+cat ./ssh/id_ed25519.pub
+
+//Testing connection
+ssh -T git@github.com
+
+//for listing the list of keys added
+ssh-add -l
+
+//Config
+
+git config --global user.name "Кафи Ул Шаббир"
+git config --global user.email kafiulshabbir@gmail.com
