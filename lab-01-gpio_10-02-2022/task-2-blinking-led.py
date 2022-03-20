@@ -3,7 +3,7 @@ import time
 GPIO.setmode(GPIO.BCM)
 
 PIN_BLINK_LED = 14
-GPIO.setup(PIN_BLINK_LEP, GPIO.OUT)
+GPIO.setup(PIN_BLINK_LED, GPIO.OUT)
 
 state_of_led = True
 
