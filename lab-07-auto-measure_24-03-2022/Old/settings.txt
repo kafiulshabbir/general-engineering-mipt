@@ -1,0 +1,5 @@
+Data for experiment of charging and discharing of Capacitor
+Date of writing file = Thu Mar 31 11:21:42 2022
+Duration of measurement = 92.168
+Number of samples = 836
+Amount of time paused between measurements = 0.1
