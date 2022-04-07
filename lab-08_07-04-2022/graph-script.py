@@ -25,7 +25,7 @@ x_axis = np.linspace(0, time_operation, data_array.size)
 #7-The plots name with a set location and automatic continual to a new line in case of long name
 #8-main and additional grid, with colour and style set up
 #9-text with time of charging and discharging
-#10-commit and push to reprository
+#10-[DONE] commit and push to reprository
 fig, ax = plt.subplots(figsize=(16, 10), dpi = 400)
 ax.plot(x_axis, data_array)
 fig.savefig("test.svg")
