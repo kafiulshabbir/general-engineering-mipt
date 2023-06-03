@@ -5,9 +5,11 @@ Solution of Tasks of the course 'General Engineering Training' held in the unive
 
 ## Content (roughly)
 
--Programming a Raspberry Pi
+-Programming a Raspberry Pi.
+
 -Comitting the files to your git hub reprository.
--Plotting on Python
+
+-Plotting on Python.
 
 ## Existence?
 This reprositoty is not deleted for two reasons:
